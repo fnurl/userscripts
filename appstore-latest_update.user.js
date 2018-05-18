@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Last updated for App Store apps
 // @namespace    https://github.com/fnurl/userscripts
-// @version      0.1
+// @version      0.1.1
 // @description  Add information about when the app was last updated to the product information.
 // @author       @fnurl
-// @match        https://itunes.apple.com/*/app/*
+// @match        https://itunes.apple.com/*
 // @license      MIT
 // ==/UserScript==
 
